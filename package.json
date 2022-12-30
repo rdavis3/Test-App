@@ -1,0 +1,25 @@
+{
+  "name": "simple-express-app-demo",
+  "version": "1.0.0",
+  "description": "Very simple express app to deploy to Heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rithvikvibhu/simple-express-app-demo.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rithvikvibhu/simple-express-app-demo/issues"
+  },
+  "homepage": "https://github.com/rithvikvibhu/simple-express-app-demo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
